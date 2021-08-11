@@ -1,0 +1,27 @@
+2021-08-10 18:04:27,041  INFO [main] TestBase:52 - launching chrome browser
+2021-08-10 18:04:28,843  INFO [main] TestBase:80 - launching the freecrm website
+2021-08-10 18:04:28,844  WARN [main] TestBase:81 - hey this is warning
+2021-08-10 18:04:28,844 DEBUG [main] TestBase:82 - hey this is debug message
+2021-08-10 18:04:28,845 FATAL [main] TestBase:83 - hey this is fatal message
+2021-08-10 18:04:28,845 ERROR [main] TestBase:84 - hey this is error
+2021-08-10 18:04:28,880  INFO [main] TestBase:31 - *************Starting testcase************
+2021-08-10 18:04:28,886  INFO [main] TestBase:32 - **********login page title test**********
+2021-08-10 18:04:28,971  INFO [main] TestBase:35 - *************ending testcase************
+2021-08-10 18:04:31,332  INFO [main] TestBase:52 - launching chrome browser
+2021-08-10 18:04:33,145  INFO [main] TestBase:80 - launching the freecrm website
+2021-08-10 18:04:33,147  WARN [main] TestBase:81 - hey this is warning
+2021-08-10 18:04:33,147 DEBUG [main] TestBase:82 - hey this is debug message
+2021-08-10 18:04:33,147 FATAL [main] TestBase:83 - hey this is fatal message
+2021-08-10 18:04:33,148 ERROR [main] TestBase:84 - hey this is error
+2021-08-10 18:04:33,153  INFO [main] TestBase:40 - *************Starting testcase************
+2021-08-10 18:04:33,153  INFO [main] TestBase:41 - **********validateCRMImage**********
+2021-08-10 18:04:33,432  INFO [main] TestBase:44 - *************ending testcase************
+2021-08-10 18:04:34,857  INFO [main] TestBase:52 - launching chrome browser
+2021-08-10 18:04:36,644  INFO [main] TestBase:80 - launching the freecrm website
+2021-08-10 18:04:36,645  WARN [main] TestBase:81 - hey this is warning
+2021-08-10 18:04:36,645 DEBUG [main] TestBase:82 - hey this is debug message
+2021-08-10 18:04:36,645 FATAL [main] TestBase:83 - hey this is fatal message
+2021-08-10 18:04:36,645 ERROR [main] TestBase:84 - hey this is error
+2021-08-10 18:04:36,649  INFO [main] TestBase:50 - *************Starting testcase************
+2021-08-10 18:04:36,653  INFO [main] TestBase:51 - **********loginpageTest**********
+2021-08-10 18:04:40,314  INFO [main] TestBase:53 - *************ending testcase************
