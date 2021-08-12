@@ -3,6 +3,7 @@
 <suite name="Failed suite [FREE CRM Application Test Automation Suite]" guice-stage="DEVELOPMENT">
   <listeners>
     <listener class-name="com.qa.ExtentReportListener.ExtentReporterNG"/>
+    <listener class-name="com.crm.qa.util.MyTransform"/>
   </listeners>
   <test thread-count="5" name="FREE CRM App Test Cases(failed)">
     <classes>
@@ -10,9 +11,7 @@
         <methods>
           <include name="selectMultipleContactTest"/>
           <include name="selectContactTest"/>
-          <include name="validateCreatedContactTest"/>
           <include name="setUp"/>
-          <include name="validateCreateNewContact" invocation-numbers="0 1 2"/>
           <include name="tearDown"/>
         </methods>
       </class> <!-- com.crm.qa.testcases.ContactPageTest -->

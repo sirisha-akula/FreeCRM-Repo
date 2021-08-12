@@ -38,19 +38,19 @@ public class ContactPageTest extends TestBase{
 		
 	}
 	
-	@Test(priority =1, enabled = false)
+	@Test(priority =1, enabled = true)
 	public void verifyContactsLabelTest() {
 		Assert.assertTrue(contactpage.verifyContactsLabel());
 		
 	}
 	
-	@Test(priority =2, enabled = false)
+	@Test(priority =2, enabled = true)
 	public void selectContactTest() {
 		contactpage.selectContactsByName("arjun macha");
 		
 	}
 	
-	@Test(priority =3,enabled = false)
+	@Test(priority =3,enabled = true)
 	public void selectMultipleContactTest() {
 		contactpage.selectContactsByName("arjun macha");
 		contactpage.selectContactsByName("kittu macha");

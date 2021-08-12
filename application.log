@@ -1,27 +1,145 @@
-2021-08-10 18:04:27,041  INFO [main] TestBase:52 - launching chrome browser
-2021-08-10 18:04:28,843  INFO [main] TestBase:80 - launching the freecrm website
-2021-08-10 18:04:28,844  WARN [main] TestBase:81 - hey this is warning
-2021-08-10 18:04:28,844 DEBUG [main] TestBase:82 - hey this is debug message
-2021-08-10 18:04:28,845 FATAL [main] TestBase:83 - hey this is fatal message
-2021-08-10 18:04:28,845 ERROR [main] TestBase:84 - hey this is error
-2021-08-10 18:04:28,880  INFO [main] TestBase:31 - *************Starting testcase************
-2021-08-10 18:04:28,886  INFO [main] TestBase:32 - **********login page title test**********
-2021-08-10 18:04:28,971  INFO [main] TestBase:35 - *************ending testcase************
-2021-08-10 18:04:31,332  INFO [main] TestBase:52 - launching chrome browser
-2021-08-10 18:04:33,145  INFO [main] TestBase:80 - launching the freecrm website
-2021-08-10 18:04:33,147  WARN [main] TestBase:81 - hey this is warning
-2021-08-10 18:04:33,147 DEBUG [main] TestBase:82 - hey this is debug message
-2021-08-10 18:04:33,147 FATAL [main] TestBase:83 - hey this is fatal message
-2021-08-10 18:04:33,148 ERROR [main] TestBase:84 - hey this is error
-2021-08-10 18:04:33,153  INFO [main] TestBase:40 - *************Starting testcase************
-2021-08-10 18:04:33,153  INFO [main] TestBase:41 - **********validateCRMImage**********
-2021-08-10 18:04:33,432  INFO [main] TestBase:44 - *************ending testcase************
-2021-08-10 18:04:34,857  INFO [main] TestBase:52 - launching chrome browser
-2021-08-10 18:04:36,644  INFO [main] TestBase:80 - launching the freecrm website
-2021-08-10 18:04:36,645  WARN [main] TestBase:81 - hey this is warning
-2021-08-10 18:04:36,645 DEBUG [main] TestBase:82 - hey this is debug message
-2021-08-10 18:04:36,645 FATAL [main] TestBase:83 - hey this is fatal message
-2021-08-10 18:04:36,645 ERROR [main] TestBase:84 - hey this is error
-2021-08-10 18:04:36,649  INFO [main] TestBase:50 - *************Starting testcase************
-2021-08-10 18:04:36,653  INFO [main] TestBase:51 - **********loginpageTest**********
-2021-08-10 18:04:40,314  INFO [main] TestBase:53 - *************ending testcase************
+2021-08-12 16:01:55,930  INFO [main] TestBase:52 - launching chrome browser
+2021-08-12 16:01:57,790  INFO [main] TestBase:80 - launching the freecrm website
+2021-08-12 16:01:57,791  WARN [main] TestBase:81 - hey this is warning
+2021-08-12 16:01:57,791 DEBUG [main] TestBase:82 - hey this is debug message
+2021-08-12 16:01:57,792 FATAL [main] TestBase:83 - hey this is fatal message
+2021-08-12 16:01:57,793 ERROR [main] TestBase:84 - hey this is error
+2021-08-12 16:01:57,832  INFO [main] TestBase:31 - *************Starting testcase************
+2021-08-12 16:01:57,835  INFO [main] TestBase:32 - **********login page title test**********
+2021-08-12 16:01:57,917  INFO [main] TestBase:35 - *************ending testcase************
+2021-08-12 16:01:59,552  INFO [main] TestBase:52 - launching chrome browser
+2021-08-12 16:02:01,316  INFO [main] TestBase:80 - launching the freecrm website
+2021-08-12 16:02:01,318  WARN [main] TestBase:81 - hey this is warning
+2021-08-12 16:02:01,318 DEBUG [main] TestBase:82 - hey this is debug message
+2021-08-12 16:02:01,318 FATAL [main] TestBase:83 - hey this is fatal message
+2021-08-12 16:02:01,319 ERROR [main] TestBase:84 - hey this is error
+2021-08-12 16:02:01,324  INFO [main] TestBase:40 - *************Starting testcase************
+2021-08-12 16:02:01,331  INFO [main] TestBase:41 - **********validateCRMImage**********
+2021-08-12 16:02:01,538  INFO [main] TestBase:44 - *************ending testcase************
+2021-08-12 16:02:03,953  INFO [main] TestBase:52 - launching chrome browser
+2021-08-12 16:02:05,751  INFO [main] TestBase:80 - launching the freecrm website
+2021-08-12 16:02:05,751  WARN [main] TestBase:81 - hey this is warning
+2021-08-12 16:02:05,751 DEBUG [main] TestBase:82 - hey this is debug message
+2021-08-12 16:02:05,752 FATAL [main] TestBase:83 - hey this is fatal message
+2021-08-12 16:02:05,752 ERROR [main] TestBase:84 - hey this is error
+2021-08-12 16:02:05,763  INFO [main] TestBase:50 - *************Starting testcase************
+2021-08-12 16:02:05,767  INFO [main] TestBase:51 - **********loginpageTest**********
+2021-08-12 16:02:09,410  INFO [main] TestBase:53 - *************ending testcase************
+2021-08-12 16:02:11,813  INFO [main] TestBase:52 - launching chrome browser
+2021-08-12 16:02:13,564  INFO [main] TestBase:80 - launching the freecrm website
+2021-08-12 16:02:13,565  WARN [main] TestBase:81 - hey this is warning
+2021-08-12 16:02:13,565 DEBUG [main] TestBase:82 - hey this is debug message
+2021-08-12 16:02:13,565 FATAL [main] TestBase:83 - hey this is fatal message
+2021-08-12 16:02:13,565 ERROR [main] TestBase:84 - hey this is error
+2021-08-12 16:02:19,678  INFO [main] TestBase:52 - launching chrome browser
+2021-08-12 16:02:21,445  INFO [main] TestBase:80 - launching the freecrm website
+2021-08-12 16:02:21,446  WARN [main] TestBase:81 - hey this is warning
+2021-08-12 16:02:21,447 DEBUG [main] TestBase:82 - hey this is debug message
+2021-08-12 16:02:21,447 FATAL [main] TestBase:83 - hey this is fatal message
+2021-08-12 16:02:21,447 ERROR [main] TestBase:84 - hey this is error
+2021-08-12 16:02:27,677  INFO [main] TestBase:52 - launching chrome browser
+2021-08-12 16:02:29,480  INFO [main] TestBase:80 - launching the freecrm website
+2021-08-12 16:02:29,481  WARN [main] TestBase:81 - hey this is warning
+2021-08-12 16:02:29,481 DEBUG [main] TestBase:82 - hey this is debug message
+2021-08-12 16:02:29,482 FATAL [main] TestBase:83 - hey this is fatal message
+2021-08-12 16:02:29,482 ERROR [main] TestBase:84 - hey this is error
+2021-08-12 16:02:36,057  INFO [main] TestBase:52 - launching chrome browser
+2021-08-12 16:02:37,881  INFO [main] TestBase:80 - launching the freecrm website
+2021-08-12 16:02:37,882  WARN [main] TestBase:81 - hey this is warning
+2021-08-12 16:02:37,882 DEBUG [main] TestBase:82 - hey this is debug message
+2021-08-12 16:02:37,882 FATAL [main] TestBase:83 - hey this is fatal message
+2021-08-12 16:02:37,882 ERROR [main] TestBase:84 - hey this is error
+2021-08-12 16:02:45,366  INFO [main] TestBase:52 - launching chrome browser
+2021-08-12 16:02:47,124  INFO [main] TestBase:80 - launching the freecrm website
+2021-08-12 16:02:47,128  WARN [main] TestBase:81 - hey this is warning
+2021-08-12 16:02:47,128 DEBUG [main] TestBase:82 - hey this is debug message
+2021-08-12 16:02:47,128 FATAL [main] TestBase:83 - hey this is fatal message
+2021-08-12 16:02:47,128 ERROR [main] TestBase:84 - hey this is error
+2021-08-12 16:02:53,909  INFO [main] TestBase:52 - launching chrome browser
+2021-08-12 16:02:55,625  INFO [main] TestBase:80 - launching the freecrm website
+2021-08-12 16:02:55,625  WARN [main] TestBase:81 - hey this is warning
+2021-08-12 16:02:55,625 DEBUG [main] TestBase:82 - hey this is debug message
+2021-08-12 16:02:55,625 FATAL [main] TestBase:83 - hey this is fatal message
+2021-08-12 16:02:55,626 ERROR [main] TestBase:84 - hey this is error
+2021-08-12 16:03:02,880  INFO [main] TestBase:52 - launching chrome browser
+2021-08-12 16:03:04,624  INFO [main] TestBase:80 - launching the freecrm website
+2021-08-12 16:03:04,625  WARN [main] TestBase:81 - hey this is warning
+2021-08-12 16:03:04,625 DEBUG [main] TestBase:82 - hey this is debug message
+2021-08-12 16:03:04,625 FATAL [main] TestBase:83 - hey this is fatal message
+2021-08-12 16:03:04,626 ERROR [main] TestBase:84 - hey this is error
+2021-08-12 16:03:13,456  INFO [main] TestBase:52 - launching chrome browser
+2021-08-12 16:03:15,292  INFO [main] TestBase:80 - launching the freecrm website
+2021-08-12 16:03:15,294  WARN [main] TestBase:81 - hey this is warning
+2021-08-12 16:03:15,295 DEBUG [main] TestBase:82 - hey this is debug message
+2021-08-12 16:03:15,295 FATAL [main] TestBase:83 - hey this is fatal message
+2021-08-12 16:03:15,295 ERROR [main] TestBase:84 - hey this is error
+2021-08-12 16:03:44,185  INFO [main] TestBase:52 - launching chrome browser
+2021-08-12 16:03:46,021  INFO [main] TestBase:80 - launching the freecrm website
+2021-08-12 16:03:46,022  WARN [main] TestBase:81 - hey this is warning
+2021-08-12 16:03:46,022 DEBUG [main] TestBase:82 - hey this is debug message
+2021-08-12 16:03:46,022 FATAL [main] TestBase:83 - hey this is fatal message
+2021-08-12 16:03:46,022 ERROR [main] TestBase:84 - hey this is error
+2021-08-12 16:04:14,925  INFO [main] TestBase:52 - launching chrome browser
+2021-08-12 16:04:16,665  INFO [main] TestBase:80 - launching the freecrm website
+2021-08-12 16:04:16,666  WARN [main] TestBase:81 - hey this is warning
+2021-08-12 16:04:16,666 DEBUG [main] TestBase:82 - hey this is debug message
+2021-08-12 16:04:16,666 FATAL [main] TestBase:83 - hey this is fatal message
+2021-08-12 16:04:16,666 ERROR [main] TestBase:84 - hey this is error
+2021-08-12 16:04:45,560  INFO [main] TestBase:52 - launching chrome browser
+2021-08-12 16:04:47,303  INFO [main] TestBase:80 - launching the freecrm website
+2021-08-12 16:04:47,304  WARN [main] TestBase:81 - hey this is warning
+2021-08-12 16:04:47,304 DEBUG [main] TestBase:82 - hey this is debug message
+2021-08-12 16:04:47,304 FATAL [main] TestBase:83 - hey this is fatal message
+2021-08-12 16:04:47,304 ERROR [main] TestBase:84 - hey this is error
+2021-08-12 16:05:17,472  INFO [main] TestBase:52 - launching chrome browser
+2021-08-12 16:05:20,088  INFO [main] TestBase:80 - launching the freecrm website
+2021-08-12 16:05:20,089  WARN [main] TestBase:81 - hey this is warning
+2021-08-12 16:05:20,089 DEBUG [main] TestBase:82 - hey this is debug message
+2021-08-12 16:05:20,089 FATAL [main] TestBase:83 - hey this is fatal message
+2021-08-12 16:05:20,090 ERROR [main] TestBase:84 - hey this is error
+2021-08-12 16:05:49,065  INFO [main] TestBase:52 - launching chrome browser
+2021-08-12 16:05:50,948  INFO [main] TestBase:80 - launching the freecrm website
+2021-08-12 16:05:50,948  WARN [main] TestBase:81 - hey this is warning
+2021-08-12 16:05:50,949 DEBUG [main] TestBase:82 - hey this is debug message
+2021-08-12 16:05:50,952 FATAL [main] TestBase:83 - hey this is fatal message
+2021-08-12 16:05:50,953 ERROR [main] TestBase:84 - hey this is error
+2021-08-12 16:06:19,747  INFO [main] TestBase:52 - launching chrome browser
+2021-08-12 16:06:21,492  INFO [main] TestBase:80 - launching the freecrm website
+2021-08-12 16:06:21,492  WARN [main] TestBase:81 - hey this is warning
+2021-08-12 16:06:21,493 DEBUG [main] TestBase:82 - hey this is debug message
+2021-08-12 16:06:21,493 FATAL [main] TestBase:83 - hey this is fatal message
+2021-08-12 16:06:21,493 ERROR [main] TestBase:84 - hey this is error
+2021-08-12 16:06:50,302  INFO [main] TestBase:52 - launching chrome browser
+2021-08-12 16:06:52,029  INFO [main] TestBase:80 - launching the freecrm website
+2021-08-12 16:06:52,030  WARN [main] TestBase:81 - hey this is warning
+2021-08-12 16:06:52,031 DEBUG [main] TestBase:82 - hey this is debug message
+2021-08-12 16:06:52,031 FATAL [main] TestBase:83 - hey this is fatal message
+2021-08-12 16:06:52,031 ERROR [main] TestBase:84 - hey this is error
+2021-08-12 16:07:21,518  INFO [main] TestBase:52 - launching chrome browser
+2021-08-12 16:07:23,299  INFO [main] TestBase:80 - launching the freecrm website
+2021-08-12 16:07:23,302  WARN [main] TestBase:81 - hey this is warning
+2021-08-12 16:07:23,303 DEBUG [main] TestBase:82 - hey this is debug message
+2021-08-12 16:07:23,303 FATAL [main] TestBase:83 - hey this is fatal message
+2021-08-12 16:07:23,303 ERROR [main] TestBase:84 - hey this is error
+2021-08-12 16:07:35,171  INFO [main] TestBase:52 - launching chrome browser
+2021-08-12 16:07:36,942  INFO [main] TestBase:80 - launching the freecrm website
+2021-08-12 16:07:36,942  WARN [main] TestBase:81 - hey this is warning
+2021-08-12 16:07:36,942 DEBUG [main] TestBase:82 - hey this is debug message
+2021-08-12 16:07:36,943 FATAL [main] TestBase:83 - hey this is fatal message
+2021-08-12 16:07:36,943 ERROR [main] TestBase:84 - hey this is error
+2021-08-12 16:07:48,051  INFO [main] TestBase:52 - launching chrome browser
+2021-08-12 16:07:49,733  INFO [main] TestBase:80 - launching the freecrm website
+2021-08-12 16:07:49,733  WARN [main] TestBase:81 - hey this is warning
+2021-08-12 16:07:49,733 DEBUG [main] TestBase:82 - hey this is debug message
+2021-08-12 16:07:49,733 FATAL [main] TestBase:83 - hey this is fatal message
+2021-08-12 16:07:49,733 ERROR [main] TestBase:84 - hey this is error
+2021-08-12 16:07:58,983 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2021-08-12 16:07:58,986 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2021-08-12 16:07:58,987 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-08-12 16:07:58,988 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-08-12 16:07:58,989 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/Users/sirishaakula/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-08-12 16:07:59,238 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2021-08-12 16:07:59,239 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2021-08-12 16:07:59,240 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-08-12 16:07:59,240 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-08-12 16:07:59,241 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/Users/sirishaakula/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
